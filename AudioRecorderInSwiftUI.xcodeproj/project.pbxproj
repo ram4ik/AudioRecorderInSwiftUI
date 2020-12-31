@@ -11,6 +11,7 @@
 		1D39C6D6259DEBA90039AC80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D39C6D5259DEBA90039AC80 /* ContentView.swift */; };
 		1D39C6D8259DEBAD0039AC80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D39C6D7259DEBAD0039AC80 /* Assets.xcassets */; };
 		1D39C6DB259DEBAD0039AC80 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D39C6DA259DEBAD0039AC80 /* Preview Assets.xcassets */; };
+		1D39C6E4259DEC190039AC80 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D39C6E3259DEC190039AC80 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1D39C6D7259DEBAD0039AC80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D39C6DA259DEBAD0039AC80 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D39C6DC259DEBAD0039AC80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D39C6E3259DEC190039AC80 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				1D39C6D3259DEBA90039AC80 /* AudioRecorderInSwiftUIApp.swift */,
 				1D39C6D5259DEBA90039AC80 /* ContentView.swift */,
+				1D39C6E3259DEC190039AC80 /* Home.swift */,
 				1D39C6D7259DEBAD0039AC80 /* Assets.xcassets */,
 				1D39C6DC259DEBAD0039AC80 /* Info.plist */,
 				1D39C6D9259DEBAD0039AC80 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D39C6D6259DEBA90039AC80 /* ContentView.swift in Sources */,
+				1D39C6E4259DEC190039AC80 /* Home.swift in Sources */,
 				1D39C6D4259DEBA90039AC80 /* AudioRecorderInSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
